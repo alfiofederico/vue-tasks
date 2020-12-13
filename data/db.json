@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Credentials",
+      "details": "TPNYC\\adipinto /// <br>\n\nAmazon_AWS_LQS@transperfect.com <br>\nWarsaw2020!\n",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "Scopes",
+      "details": "Lionsbridge: 100% matches but only new and updated content, DO NOT review 100% and 101% matches, repetitions ARE in the scope.\n\nTransperfect: Repetitions are NOT in the scope, review 100% matches\n",
+      "complete": false,
+      "id": 2
+    }
+  ]
+}
